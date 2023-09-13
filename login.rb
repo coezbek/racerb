@@ -71,7 +71,7 @@ def login(event_url)
 
   while app_id.nil? && token.nil? && event_name.nil? && wait_time < 30
     sleep 5
-    puts "Waiting for the iframe to load... #{wait_time}"
+    puts "Waiting for page to load... #{wait_time}"
     wait_time += 5
   end
 
