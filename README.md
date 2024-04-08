@@ -8,6 +8,10 @@ Data is stored as an Excel spreadsheet. Data is cached in the profiles folder, s
 
 This script is for personal use. Observe the API terms of rtrt.me: https://rtrt.me/docs/misc/acceptable-use
 
+# Whats new
+
+- Added some scripts to read data from Berlin Marathon and Halfmarathon.
+
 # How to use
 
 Clone this repo locally:
